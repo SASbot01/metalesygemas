@@ -51,8 +51,93 @@
       "permanent": true
     },
     {
-      "source": "/:slug(descubre-alicante-joyas|lo-que-debes-saber-antes-de-comprar-oro|elegimos-joyas-perfectas-personalizadas|tendencias-de-joyeria|el-valor-de-las-piedras-preciosas|guia-reconocer-oro-autentico|vender-joyas|como-se-disena-una-joya)/?",
-      "destination": "/blog/:slug",
+      "source": "/descubre-alicante-joyas",
+      "destination": "/blog/descubre-alicante-joyas",
+      "permanent": true
+    },
+    {
+      "source": "/descubre-alicante-joyas/",
+      "destination": "/blog/descubre-alicante-joyas",
+      "permanent": true
+    },
+    {
+      "source": "/lo-que-debes-saber-antes-de-comprar-oro",
+      "destination": "/blog/lo-que-debes-saber-antes-de-comprar-oro",
+      "permanent": true
+    },
+    {
+      "source": "/lo-que-debes-saber-antes-de-comprar-oro/",
+      "destination": "/blog/lo-que-debes-saber-antes-de-comprar-oro",
+      "permanent": true
+    },
+    {
+      "source": "/elegimos-joyas-perfectas-personalizadas",
+      "destination": "/blog/elegimos-joyas-perfectas-personalizadas",
+      "permanent": true
+    },
+    {
+      "source": "/elegimos-joyas-perfectas-personalizadas/",
+      "destination": "/blog/elegimos-joyas-perfectas-personalizadas",
+      "permanent": true
+    },
+    {
+      "source": "/tendencias-de-joyeria",
+      "destination": "/blog/tendencias-de-joyeria",
+      "permanent": true
+    },
+    {
+      "source": "/tendencias-de-joyeria/",
+      "destination": "/blog/tendencias-de-joyeria",
+      "permanent": true
+    },
+    {
+      "source": "/el-valor-de-las-piedras-preciosas",
+      "destination": "/blog/el-valor-de-las-piedras-preciosas",
+      "permanent": true
+    },
+    {
+      "source": "/el-valor-de-las-piedras-preciosas/",
+      "destination": "/blog/el-valor-de-las-piedras-preciosas",
+      "permanent": true
+    },
+    {
+      "source": "/guia-reconocer-oro-autentico",
+      "destination": "/blog/guia-reconocer-oro-autentico",
+      "permanent": true
+    },
+    {
+      "source": "/guia-reconocer-oro-autentico/",
+      "destination": "/blog/guia-reconocer-oro-autentico",
+      "permanent": true
+    },
+    {
+      "source": "/vender-joyas",
+      "destination": "/blog/vender-joyas",
+      "permanent": true
+    },
+    {
+      "source": "/vender-joyas/",
+      "destination": "/blog/vender-joyas",
+      "permanent": true
+    },
+    {
+      "source": "/como-se-disena-una-joya",
+      "destination": "/blog/como-se-disena-una-joya",
+      "permanent": true
+    },
+    {
+      "source": "/como-se-disena-una-joya/",
+      "destination": "/blog/como-se-disena-una-joya",
+      "permanent": true
+    },
+    {
+      "source": "/politica-privacidad",
+      "destination": "/privacidad",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy-eu",
+      "destination": "/privacidad",
       "permanent": true
     }
   ],
