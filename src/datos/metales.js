@@ -91,7 +91,7 @@ export const GUIA_QUILATES = [
     milesimas: 916,
     titulo: "El oro de las monedas",
     texto:
-      "Un 91,6 % de oro. Muy cálido de color y algo más duro que el puro; es la ley de monedas de inversión como el soberano o el krugerrand y de buena parte de la joyería oriental.",
+      "Un 91,6 % de oro. Muy cálido de color y algo más duro que el puro; es la ley de monedas de inversión como el soberano o el krugerrand y de buena parte de la joyería oriental.",
   },
   {
     quilates: 18,
@@ -141,7 +141,7 @@ export const COLORES_ORO = [
 export const ORO_AUTENTICO = [
   {
     titulo: "Busca el contraste",
-    texto: "Un número grabado en el cierre o en el interior te dice la ley: 750 es oro de 18 k y 585, de 14 k.",
+    texto: "Un número grabado en el cierre o en el interior te dice la ley: 750 es oro de 18 k y 585, de 14 k.",
     icono: "contraste",
   },
   {

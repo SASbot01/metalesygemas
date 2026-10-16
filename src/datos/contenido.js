@@ -78,7 +78,7 @@ export const VALORES = [
 
 export const CIFRAS = [
   { valor: 15, prefijo: "+", sufijo: "", etiqueta: "años en Alicante", texto: "Más de quince años de trayectoria ofreciendo joyas únicas y un servicio cercano." },
-  { valor: 98, prefijo: "", sufijo: " %", etiqueta: "clientes satisfechos", texto: "Más del 98 % de nuestros clientes nos recomiendan por la calidad y el trato." },
+  { valor: 98, prefijo: "", sufijo: " %", etiqueta: "clientes satisfechos", texto: "Más del 98 % de nuestros clientes nos recomiendan por la calidad y el trato." },
   { valor: 2008, prefijo: "", sufijo: "", etiqueta: "asesorando desde", texto: "Consultoría experta en joyería para una compra especial, una inversión o una pieza a medida.", sinSeparador: true },
 ];
 

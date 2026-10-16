@@ -78,7 +78,7 @@ export default function Joyeria() {
       <section className="py-20 lg:py-28">
         <div className="contenedor grid items-center gap-10 lg:grid-cols-[1.2fr_0.8fr] lg:gap-20">
           <Aparecer as="figure">
-            <blockquote className="font-display text-[clamp(1.8rem,3.2vw,2.8rem)] leading-[1.2] text-tinta">
+            <blockquote className="font-display text-[clamp(1.35rem,2.1vw,1.9rem)] leading-[1.5] text-tinta">
               <span className="realce">“</span>
               {DESTACADA.texto}
               <span className="realce">”</span>

@@ -8,13 +8,13 @@ const LISTA = [
     fecha: "2022-08-14",
     nota: 5,
     texto:
-      "Gran variedad de piezas de oro de 18 k exclusivas, grandes profesionales, envíos y trato perfecto, recomendable 100 %. Me atendió Samuel y, a pesar de hacerlo todo por teléfono, fue más que en persona: pendiente de todo y aclarándome cualquier cosa que le preguntaba. Llevo dos compras con él y las dos 👍🥰 No hay dos sin tres, gracias Samuel. Desde Extremadura, Plasencia.",
+      "Gran variedad de piezas de oro de 18 k exclusivas, grandes profesionales, envíos y trato perfecto, recomendable 100 %. Me atendió Samuel y, a pesar de hacerlo todo por teléfono, fue más que en persona: pendiente de todo y aclarándome cualquier cosa que le preguntaba. Llevo dos compras con él y las dos 👍🥰 No hay dos sin tres, gracias Samuel. Desde Extremadura, Plasencia.",
   },
   {
     nombre: "Ruben Muñoz",
     fecha: "2025-02-22",
     nota: 5,
-    texto: "Joyas bonitas y modernas… volveré sin duda. Muy buena atención y trato… lo recomiendo 100 %.",
+    texto: "Joyas bonitas y modernas… volveré sin duda. Muy buena atención y trato… lo recomiendo 100 %.",
   },
   {
     nombre: "Josefina Megia Gomez",

@@ -7,7 +7,7 @@ export const NEGOCIO = {
   lema: "Joyería y compraventa de oro en Alicante",
   desde: 2008,
   anios: "+15",
-  satisfaccion: "98 %",
+  satisfaccion: "98 %",
 
   telefonos: [
     { numero: "624 276 928", tel: "+34624276928" },

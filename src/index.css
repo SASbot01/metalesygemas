@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
 @font-face {
-  font-family: "Bodoni Moda";
-  src: url("/fonts/bodoni-moda.woff2") format("woff2");
-  font-weight: 400 900;
+  font-family: "Newsreader";
+  src: url("/fonts/newsreader.woff2") format("woff2");
+  font-weight: 200 800;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Bodoni Moda";
-  src: url("/fonts/bodoni-moda-italic.woff2") format("woff2");
-  font-weight: 400 900;
+  font-family: "Newsreader";
+  src: url("/fonts/newsreader-italic.woff2") format("woff2");
+  font-weight: 200 800;
   font-style: italic;
   font-display: swap;
 }
@@ -46,7 +46,7 @@
   --color-abierto: #7ad39b;
   --color-cerrado: #d9a3ad;
 
-  --font-display: "Bodoni Moda", "Didot", "Bodoni 72", "Times New Roman", serif;
+  --font-display: "Newsreader", "Iowan Old Style", Georgia, "Times New Roman", serif;
   --font-sans: "Mona Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
 
   --ease-lujo: cubic-bezier(0.22, 1, 0.36, 1);
@@ -171,13 +171,13 @@
     border-radius: 2px;
   }
 
-  /* Bodoni sobre azul noche: algo más de peso y óptica de 60 para que los trazos finos no se pierdan. */
+  /* Newsreader sobre azul noche: un punto más de peso para que se lea con soltura. */
   h1,
   h2,
   h3,
   .font-display {
     font-family: var(--font-display);
-    font-weight: 440;
+    font-weight: 420;
     font-variation-settings: "opsz" 60;
     letter-spacing: -0.012em;
     text-wrap: balance;
@@ -586,7 +586,7 @@
     font-variant-numeric: tabular-nums lining-nums;
   }
 
-  /* Cifras grandes en Bodoni con óptica pequeña: las diagonales del 4 y el € no desaparecen. */
+  /* Cifras grandes con óptica pequeña: trazos más firmes y números que se leen de un vistazo. */
   .cifra {
     font-family: var(--font-display);
     font-variation-settings: "opsz" 18;
@@ -595,7 +595,7 @@
     letter-spacing: -0.01em;
   }
 
-  /* El € en la letra de texto, pequeño y volado: en Bodoni pequeño parecía una «c». */
+  /* El € en la letra de texto, pequeño y volado, como en las etiquetas de joyería. */
   .cifra .moneda {
     font-family: var(--font-sans);
     font-variation-settings: normal;

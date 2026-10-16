@@ -39,7 +39,7 @@ export const ARTICULOS = [
       { h: "Aspectos clave antes de invertir" },
       {
         lista: [
-          "**Pureza:** el oro de 24 k es el más puro, pero también el más blando.",
+          "**Pureza:** el oro de 24 k es el más puro, pero también el más blando.",
           "**Precio por gramo:** varía según el mercado internacional.",
           "**Diseño:** una joya bien diseñada puede aumentar su valor.",
         ],
@@ -137,7 +137,7 @@ export const ARTICULOS = [
       { h: "Indicadores básicos para reconocer el oro" },
       {
         lista: [
-          "**Contraste grabado:** símbolos como «750» (18 k) o «585» (14 k) indican la pureza.",
+          "**Contraste grabado:** símbolos como «750» (18 k) o «585» (14 k) indican la pureza.",
           "**Color y peso:** el oro tiene un tono cálido característico y es más denso que otros metales.",
           "**No es magnético:** si se pega a un imán, probablemente no sea oro.",
           "**Prueba ácida:** solo recomendable con el equipo adecuado.",
