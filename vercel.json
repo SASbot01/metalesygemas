@@ -1,0 +1,65 @@
+{
+  "redirects": [
+    {
+      "source": "/galeria/",
+      "destination": "/galeria",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/nosotros",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/nosotros",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "/servicios",
+      "permanent": true
+    },
+    {
+      "source": "/services/",
+      "destination": "/servicios",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/contacto",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contacto",
+      "permanent": true
+    },
+    {
+      "source": "/blog/",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/politica-privacidad/",
+      "destination": "/privacidad",
+      "permanent": true
+    },
+    {
+      "source": "/cookie-policy-eu/",
+      "destination": "/privacidad",
+      "permanent": true
+    },
+    {
+      "source": "/:slug(descubre-alicante-joyas|lo-que-debes-saber-antes-de-comprar-oro|elegimos-joyas-perfectas-personalizadas|tendencias-de-joyeria|el-valor-de-las-piedras-preciosas|guia-reconocer-oro-autentico|vender-joyas|como-se-disena-una-joya)/?",
+      "destination": "/blog/:slug",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
